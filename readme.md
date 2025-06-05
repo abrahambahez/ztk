@@ -27,3 +27,5 @@ Estas son algunas de las reglas que creo que puede tener:
 ## Ejemplos
 
 Ver [comunidades de disfrute](202506042053.md) como ejemplo.
+
+También ver [gestión de producto](202506042136.md)
